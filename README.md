@@ -13,7 +13,7 @@ Eisbach’s match method that allows users to control whether a subgoal context 
 
 ## Requirements 
 
-These theories have been tested with `Isabelle/HOL 2024` and the equivalent [AFP](https://www.isa-afp.org/).
+These theories have been tested with [Isabelle/HOL 2025](https://isabelle.in.tum.de/installation.html) and the latest stable [AFP](https://www.isa-afp.org/).
 
 ## Installation
 
